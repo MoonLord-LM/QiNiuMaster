@@ -1,0 +1,10 @@
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.FormLoading.resources
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.FormMain.resources
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.FormLogin.resources
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.Properties.Resources.resources
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\bin\Debug\七牛云存储批量管理工具.exe.config
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\bin\Debug\七牛云存储批量管理工具.exe
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\bin\Debug\七牛云存储批量管理工具.pdb
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.exe
+F:\Documents\Visual Studio成品示例\【2014】\七牛云存储批量管理工具\obj\x86\Debug\七牛云存储批量管理工具.pdb
