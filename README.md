@@ -47,3 +47,6 @@ GitHub开源地址：http://github.com/MoonLord-LM/QiNiuMaster
 <A href="https://github.com/MoonLord-LM/QiNiuMaster/blob/master/%E4%B8%83%E7%89%9B%E4%BA%91%E5%AD%98%E5%82%A8%E6%89%B9%E9%87%8F%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%EF%BC%88C%23%E6%BA%90%E7%A0%81%EF%BC%89/%E6%B5%8B%E8%AF%95%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20150221190829.jpg">
 <IMG src="https://github.com/MoonLord-LM/QiNiuMaster/blob/master/%E4%B8%83%E7%89%9B%E4%BA%91%E5%AD%98%E5%82%A8%E6%89%B9%E9%87%8F%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%EF%BC%88C%23%E6%BA%90%E7%A0%81%EF%BC%89/%E6%B5%8B%E8%AF%95%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20150221190829.jpg?raw=true"></IMG>
 </A>
+<H4>   </H4>
+<pre>代码总是少不了BUG，有不足之处还望指出。</pre>
+<H4>   </H4>
