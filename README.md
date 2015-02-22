@@ -8,7 +8,7 @@ GitHub开源地址：http://github.com/MoonLord-LM/QiNiuMaster
 维护：MoonLord
 联系QQ：178910432
 交流QQ群：130490067 
-技术支持：武汉大学RMC工作室 武汉大学计算机协会
+技术支持：月翼科技
 </pre>
 <H4>   </H4>
 <H4>启动界面：</H4>
